@@ -1,33 +1,133 @@
-![logo](https://github.com/Shubhamraut9497/Shubhamraut9497/blob/main/believe%20in%20yourself%20(1).png)
-<h1 align="center">Hi 👋, I'm Shubham raut</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamraut9497&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamraut9497" /> </p>
+![Believe in Yourself](https://github.com/Shubhamraut9497/Shubhamraut9497/blob/main/believe%20in%20yourself%20(1).png)
 
-- 🔭 I’m currently working on **Blogging website**
+<h1 align="center">Hi 👋, I'm Shubham Raut</h1>
+<h3 align="center">Full Stack Developer | Next.js • Node.js • Scalable Web Systems</h3>
 
-- 🌱 I’m currently learning **Next js**
+<img align="right" alt="coding" width="380" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"/>
 
-- 💬 Ask me about **html, css, javascript,react,nodejs,mongodb**
-
-- 📫 How to reach me **shubhamraut.raut9497@gmail.com**
-
-- ⚡ Fun fact **I think i am in love with coding**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubham-raut-raut9497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-raut-raut9497" height="30" width="40" /></a>
-<a href="https://instagram.com/raut2808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raut2808" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technical knowledge and facts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technical knowledge and facts" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubham9497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham9497" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shubhamrautraut9497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamrautraut9497" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shubhamraut9497&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamraut9497" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamraut9497&show_icons=true&locale=en&layout=compact" alt="shubhamraut9497" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamraut9497&show_icons=true&locale=en" alt="shubhamraut9497" /></p>
+- 🚀 Full Stack Developer with **3+ years of experience** building **production-grade web applications**
+- 💼 Currently working as a **Next.js Developer at NxtWave**
+- 🧠 Strong focus on **performance, scalability, clean architecture, and developer experience**
+- 🛠 Experienced in **SaaS platforms, AI integrations, role-based systems, and payment workflows**
+- ⚡ Love solving real-world problems and optimizing systems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamraut9497&" alt="shubhamraut9497" /></p>
+---
+
+### 💼 Work Experience
+
+**Next.js Developer – NxtWave**  
+📍 Hyderabad | 🗓️ 06/2025 – Present  
+- Built internal reimbursement management tools with **role-based approval flows**
+- Reduced manual processing time by **~40%**
+- Improved visibility for **100+ monthly requests**
+
+**Frontend Developer – Shootorder Digital Marketing**  
+📍 Hyderabad | 🗓️ 08/2023 – 06/2025  
+- Optimized applications for **Core Web Vitals**
+- Implemented **lazy loading, image optimization, code splitting**
+- Improved Lighthouse and mobile performance significantly
+
+**Full Stack Developer Intern – Newton School**  
+🌍 Remote | 🗓️ 06/2022 – 06/2023  
+- Built **MERN stack applications** with complex state management
+- Reduced state-related bugs by **~30%**
+- Deployed applications using **NGINX-based setups**
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 ChatLX.com
+- AI-powered **RAG chatbot SaaS platform**
+- Built using **Next.js, Express.js, MongoDB, Prisma, OpenAI GPT-4**
+- Features:
+  - PDF-based chatbot creation
+  - Authentication & role handling
+  - GPT rate limiting
+  - **Stripe subscriptions**
+
+#### 🔹 Evolzer.com
+- SEO-optimized business website
+- Built with **Next.js + MERN backend**
+- Focused on **performance, lazy loading, image optimization**
+- High-volume lead generation via REST APIs
+
+#### 🔹 Landers.co.in
+- Dynamic landing page generator
+- Built with **Next.js + MERN**
+- Template-based system for **rapid deployment**
+- Designed for **high-scale marketing campaigns**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+- React.js, Next.js, JavaScript (ES6+), TypeScript
+- Tailwind CSS, HTML5, CSS3
+- Redux, Context API, Zustand, TanStack Query
+- GSAP, Framer Motion
+
+#### Backend
+- Node.js, Express.js
+- MongoDB, Prisma ORM, Redis
+- REST APIs, GraphQL
+- Supabase, DynamoDB, Java
+
+#### Tools & DevOps
+- Git, GitHub, Postman
+- Vercel, AWS, Docker
+- CI/CD Pipelines
+- Jest, Cypress
+- Stripe, OpenAI API
+
+#### Others
+- PHP, Laravel, Shopify
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shubham-raut-raut9497" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/raut2808" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/shubham9497" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/shubhamrautraut9497" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamraut9497&show_icons=true&layout=compact" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamraut9497&show_icons=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamraut9497" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I don’t just write code — I **engineer systems** 🚀
